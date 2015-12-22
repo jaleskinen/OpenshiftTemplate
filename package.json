@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Just an template for openshift node/mongodb apps",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaleskinen/OpenshiftTemplate.git"
+  },
+  "author": "Jarmo Leskinen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaleskinen/OpenshiftTemplate/issues"
+  },
+  "homepage": "https://github.com/jaleskinen/OpenshiftTemplate#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
