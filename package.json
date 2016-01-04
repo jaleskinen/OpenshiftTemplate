@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jaleskinen/OpenshiftTemplate#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "mongoose": "^4.3.4"
   }
 }
